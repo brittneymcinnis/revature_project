@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: brittneymcinnis
+Build-Jdk: 14.0.2
+Class-Path: lib/postgresql-42.2.18.jar lib/checker-qual-3.5.0.jar lib/lo
+ g4j-core-2.13.3.jar lib/log4j-api-2.13.3.jar
+Main-Class: com.revature.driver.Driver
+Created-By: Maven Integration for Eclipse
+
